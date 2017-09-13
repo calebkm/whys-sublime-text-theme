@@ -4,4 +4,4 @@ For those who use Sublime Text and also enjoy the Poignant Guide by Why the Luck
 
 [Why's Poignant Guide to Ruby](https://poignant.guide/)
 
-This is free and open for anyone to use, fork, change, hate, tweak or whatever else you might dream up to do with a XML file. Who knows, they sky is the limit!
+This is free and open for anyone to use, fork, change, hate, tweak or whatever else you might dream up to do with an XML file. Who knows, the sky is the limit!
